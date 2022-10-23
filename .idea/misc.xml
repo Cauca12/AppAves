@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave.xml" value="0.2" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_cinco.xml" value="0.264" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_cuatro.xml" value="0.259375" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_diez.xml" value="0.259375" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_dos.xml" value="0.259375" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_fin.xml" value="0.259375" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_nueve.xml" value="0.259375" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_ocho.xml" value="0.259375" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_seis.xml" value="0.259375" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_siete.xml" value="0.259375" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_tres.xml" value="0.264" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/ave_uno.xml" value="0.264" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/layout/primer_ave.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2645" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Mis_Aves_Colombianas/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2645" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
